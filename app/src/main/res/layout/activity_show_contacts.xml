@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddContact" android:noHistory="true"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/contacts0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/contacts1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/contacts2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/contacts3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+
+    <TextView
+        android:id="@+id/contacts4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+
+    <TextView
+        android:id="@+id/contacts5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/contacts6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+
+    <TextView
+        android:id="@+id/contacts7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+
+
+    <TextView
+        android:id="@+id/contacts8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/contacts9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+
+    <TextView
+        android:id="@+id/contacts10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+
+    <TextView
+        android:id="@+id/contacts11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:inputType="textPersonName"
+        android:maxLines="10"
+        android:minLines="3"
+        android:textSize="25dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"/>
+
+
+
+</LinearLayout>
